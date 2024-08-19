@@ -1,3 +1,5 @@
+using user_client.Models;
+
 namespace user_client
 {
     public class Program
@@ -9,7 +11,7 @@ namespace user_client
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddHttpClient();
-
+            builder.Services.AddSingleton<Authentication>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

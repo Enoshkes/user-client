@@ -223,3 +223,4 @@ C:\Users\enosh.tsur\source\repos\user-client\user-client\bin\Debug\net8.0\runtim
 C:\Users\enosh.tsur\source\repos\user-client\user-client\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\enosh.tsur\source\repos\user-client\user-client\obj\Debug\net8.0\user-client.csproj.AssemblyReference.cache
 C:\Users\enosh.tsur\source\repos\user-client\user-client\obj\Debug\net8.0\user-cli.94314BC7.Up2Date
+C:\Users\enosh.tsur\source\repos\user-client\user-client\obj\Debug\net8.0\user-client.sourcelink.json
